@@ -1,11 +1,9 @@
 
-import './App.css';
+import Body from './components/Body';
 
 function App() {
   return (
-    <div className="ml-5 mt-10">
-        Let start project
-    </div>
+    <Body/>
   );
 }
 
